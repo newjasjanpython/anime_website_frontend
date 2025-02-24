@@ -49,3 +49,4 @@ export default tseslint.config({
 })
 ```
 # anime_website_frontend
+# anime_website_frontend
